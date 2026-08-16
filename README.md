@@ -1,9 +1,32 @@
-TESTE
+<div align="center">
 
-WLDMpowdjWWJ
+# Lukazz Valodsky
 
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/oiilukazz/oiilukazz/refs/heads/main/roblox-rap-discord-banner.gif">
 
-Dmasdj
+### Um pouco de tudo
 
-# .github
+![Roblox](https://img.shields.io/badge/Roblox-Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### Links Rápidos
+
+[Repositórios](https://github.com/lpcszx?tab=repositories)
+•
+[Contato](Valodsky@email.com)
+
+</div>
+
+## Discord
+<a href="https://discord.com/users/1513157899973693553">
+    <img src="https://lanyard.cnrad.dev/api//1513157899973693553?theme=dark&bg=000000&idleMessage=https%3A%2F%2Fhttps://discord.gg/gy7XCYBNgZ%2F&showDisplayName=true" />
+</a>
+
+---
+
+### ム
+
+</div>
