@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## Divisões do Grupo
 
 Nossa organização atua como uma franquia mãe, gerenciando marcas independentes e focadas em nichos específicos.
