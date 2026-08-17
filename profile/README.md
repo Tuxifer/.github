@@ -24,8 +24,6 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
 •
 [Termos de Serviço](https://seu-dominio.com)
 
-<div align="center">
-
 ---
 
 > [!NOTE]
