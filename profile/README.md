@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tuxifer/.github/refs/heads/main/profile/Design%20sem%20nome.png" width="600">
+<img src="https://raw.githubusercontent.com/Tuxifer/.github/refs/heads/main/profile/Design_sem_nome.png" width="600">
 
 ---
 
