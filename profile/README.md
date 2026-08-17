@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tuxifer/.github/refs/heads/main/profile/Design_sem_nome.png" width="600">
-
----
-
 ### Links Globais
 
 [Servidor do Discord](https://discord.gg)
@@ -29,5 +23,5 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
 ---
 
 <div align="center">
- 
-### ム
+
+<img src="https://raw.githubusercontent.com/Tuxifer/.github/refs/heads/main/profile/Design_sem_nome.png" width="600">
