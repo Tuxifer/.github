@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/KatakaBot/Imagens/blob/main/656f9b578c5d45d9869a0a52723dd335.gif" width="600">
+<img src="https://raw.githubusercontent.com/Tuxifer/.github/refs/heads/main/profile/tux-linux-tux.gif" width="600">
 
 ### Links Globais
 
