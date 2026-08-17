@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nome da Sua Organização Mãe
+# Tuxifer
 
 <div align="center">
 
