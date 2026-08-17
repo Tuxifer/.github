@@ -3,9 +3,7 @@
 # Tuxifer
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tuxifer/.github/refs/heads/main/profile/tux-linux-tux.gif" width="600">
-
+ 
 ### Links Globais
 
 [Servidor do Discord](https://discord.gg)
