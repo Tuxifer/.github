@@ -20,6 +20,10 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
 
 ---
 
+> [!NOTE]
+> Este bloco ganha um destaque sutil que se adapta perfeitamente ao tema escuro.
+
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Tuxifer/.github/refs/heads/main/profile/Design_sem_nome.png" width="600">
