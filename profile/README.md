@@ -30,4 +30,4 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
  
 ### ム
 
-</div>
+<div align="center">
