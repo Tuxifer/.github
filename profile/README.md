@@ -28,5 +28,6 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
   
 ---
   
-[!NOTE]
-> Este organização ainda ta em teste e pode ser descartada.
+> [!NOTE]
+> Este bloco ganha um destaque sutil que se adapta perfeitamente ao tema escuro.
+
