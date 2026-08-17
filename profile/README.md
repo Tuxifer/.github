@@ -24,7 +24,8 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
 •
 [Termos de Serviço](https://seu-dominio.com)
 
+<div>
 ---
-
+  
 > [!NOTE]
-> Este bloco ganha um destaque sutil que se adapta perfeitamente ao tema escuro.
+> Este organização ainda ta em teste e pode ser descartada.
