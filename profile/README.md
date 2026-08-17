@@ -16,13 +16,15 @@
 
 </div>
 
-## Divisões do Grupo
 
+### Divisões do Grupo
 Nossa organização atua como uma franquia mãe, gerenciando marcas independentes e focadas em nichos específicos.
 
-| Organização| Escopo Principal |
-| :--- | :--- |
-| **[Kataka Network](https://github.com/KatakaNetwork)** | Sites e Ferramentas de Comunidade.
+[Kataka Network](https://github.com/KatakaNetwork)
+•
+[Termos de Serviço](https://seu-dominio.com)
+
+</div>
 
 ---
 
