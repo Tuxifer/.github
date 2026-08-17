@@ -27,7 +27,7 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
 | **[Kataka Network](https://github.com/KatakaNetwork)** | Sites e Ferramentas de Comunidade.
 
 ---
- 
-### ム
 
 <div align="center">
+ 
+### ム
