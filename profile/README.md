@@ -28,17 +28,8 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
 | :--- | :--- |
 | **[Kataka Network](https://github.com/KatakaNetwork)** | Sites e Ferramentas de Comunidade.
 
-
-## 👥 Governança e Contato
-
-Esta organização centraliza a administração de acessos, direitos autorais e políticas globais de todos os subprojetos listados.
-
-* **Parcerias Comerciais:** `teste@teste.teste`
-* **Suporte Geral:** Abra um ticket em nosso servidor do Discord.
-* **Segurança e Vulnerabilidades:** Por favor, reporte problemas de segurança diretamente via e-mail antes de abrir uma issue pública.
-
 ---
-
+ 
 ### ム
 
 </div>
