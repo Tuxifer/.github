@@ -14,7 +14,7 @@
 •
 [Termos de Serviço](https://seu-dominio.com)
 
-</div>
+<div align="center">
 
 
 ### Divisões do Grupo
@@ -24,7 +24,7 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
 •
 [Termos de Serviço](https://seu-dominio.com)
 
-</div>
+<div align="center">
 
 ---
 
