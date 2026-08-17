@@ -28,5 +28,5 @@ Nossa organização atua como uma franquia mãe, gerenciando marcas independente
   
 ---
   
-> [!NOTE]
+[!NOTE]
 > Este organização ainda ta em teste e pode ser descartada.
